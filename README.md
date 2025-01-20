@@ -9,8 +9,8 @@ This repository contains the UI/UX design project for "Connect App," an Event Bo
 - **Event Management:** Efficient layout for browsing and managing event details effortlessly.  
 
 ## Preview  
-Include a link to the live prototype or add screenshots here.  
-- [Live Prototype on Figma](#) https://www.figma.com/design/jCMdJCGxNWX8seN2Uv2QhC/Event-Booking-App?node-id=696-23686&t=rGGARMQBPYkpJnEm-1
+add screenshots here.  
+
 
 ![image](https://github.com/user-attachments/assets/6df0ce0b-d156-40d0-b6a9-18e3962dd05e)
 ![image](https://github.com/user-attachments/assets/80c583e8-7f6a-4d39-9200-4af8587e4972)
